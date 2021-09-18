@@ -15,6 +15,8 @@ You can download it (~20GB) from
 
 https://drive.google.com/file/d/1LVDuWeIca_-aQ4E_YGFgZeoq2e3E3yLB/view?usp=sharing
 
+A subset of the code is in the "master" brach of this repo, which contains a demo in the file: app/BS/demo.ipynb
+
 In another work, we show that reconstruction-autoencoder based OOD detection was ineffective for a medical image analysis application.
 
 The paper is here 
